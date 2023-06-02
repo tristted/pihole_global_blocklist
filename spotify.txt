@@ -9,7 +9,6 @@ ab.tune.com
 ac1.vip.sc9.admob.com
 ac208.sc9.admob.com
 academy.tune.com
-accounts.spotify.com
 lb-wg.dual-gslb.spotify.com
 aci.scdn.co
 beta.spotify.map.fastly.net
@@ -26,7 +25,6 @@ adgrx.moatads.com
 adjust.com
 adlab.spotify.com
 adlab.spotify.com
-admetrix.comscore.com
 admob.biz
 admob.co.kr
 admob.co.nz
@@ -98,7 +96,6 @@ api.intercom.io
 api.mixpanel.com
 api.spotify.com 
 api.zwizzarmyknife.com
-apresolve.spotify.com 
 apx.moatads.com
 ar.voicefive.com
 arantxa.ash1.spotify.com 
@@ -268,14 +265,12 @@ d3rt1990lpmkn.cloudfront.
 d3rt1990lpmkn.cloudfront.net
 d361oi6ppvq2ym.cloudfront.net
 d.admob.com
-daily-mix.scdn.co 
 daryl.ash1.spotify.com 
 daryl.ash.spotify.com 
 datawarehouse.spotify.com 
 dayana.ash1.spotify.com 
 dayana.ash.spotify.com 
 dbg52463.moatads.com
-dealer.spotify.com 
 deborah.ash1.spotify.com 
 deborah.ash.spotify.com 
 decide.mixpanel.com
@@ -297,7 +292,6 @@ devnews.spotify.com
 docs.spotify.com 
 doubleclick.
 doubleclick.net
-download.scdn.co 
 download.spotify.com 
 download.spotify.map.fastly.net 
 ds.serving-sys.com
@@ -371,14 +365,12 @@ gew1.ap.spotify.com
 gew-dealer-ssl.spotify.com 
 gew-dealer.spotify.com 
 gew-spclient.spotify.com 
-global-dealer-ssl.spotify.com 
 go.scdn.co 
 googleadapis.l.google.com
 googleads4.g.doubleclick.net
 googleads.g.doubleclick.
 googleads.g.doubleclick.net
 googleadservices.com
-googlehosted.l.googleusercontent.com
 googletagservices.com
 groups.spotify.com 
 gtssl2-ocsp.geotrust.
@@ -423,8 +415,6 @@ herlinda.ash1.spotify.com
 herlinda.ash.spotify.com 
 hrblog.spotify.com 
 i.admob.com
-i.scdn.co
-i.scdn.co 
 ia1.comscore.com
 ia2.comscore.com
 iad.comscore.com
@@ -469,7 +459,6 @@ laurinda.ash.spotify.com
 lb1-217593028.us-east-1.elb.amazonaws.com
 leadvisualdesigner.intercom.io
 line-in.spotify.com 
-lineup-images.scdn.co 
 links.iterable.com
 links.spotify.com
 links.spotify.com 
@@ -562,7 +551,6 @@ oktascimserver.spotify.com
 omaze.
 omaze.com
 open.scdn.co 
-open.spotify.com 
 opensource.spotify.com 
 ops-prod.us-west-2.k8s.ops.tune.com
 ord.comscore.com
@@ -734,7 +722,6 @@ sync.search.spotxchange.com
 sync.search.spotxchange.com 
 t.admob.com
 t.myvisualiq.net
-t.scdn.co 
 t.update.moatads.com
 tap1.vip.sc9.admob.com
 tathra.ash1.spotify.com 
@@ -1684,3 +1671,5 @@ heads-fab.spotify.com
 heads-fac.spotify.com 
 mp3ad.scdn.co
 prod.spotify-heads.map.fastlylb.net
+audio-sp-sea.spotifycdn.net
+scdnco.spotify.map.fastly.net
