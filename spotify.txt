@@ -84,7 +84,6 @@ ap.gslb.spotify.com
 ap.spotify.com
 api-canary.wg.spotify.com
 api-iam.intercom.io
-api-partner.spotify.com
 api-partners-canary.wg.spotify.com
 api-ping.intercom.io
 api-tv-canary.wg.spotify.com
@@ -100,7 +99,6 @@ apx.moatads.com
 ar.voicefive.com
 arantxa.ash1.spotify.com 
 arantxa.ash.spotify.com 
-artist-identity-image.spotify.com 
 artistheader.scdn.co 
 artistinsights-realtime.spotify.com 
 artists.spotify.com 
@@ -205,7 +203,6 @@ cast.scdn.co
 cdn.ravenjs.com
 cdr.comscore.com
 cer.comscore.com
-charts-images.scdn.co 
 clemmie.ash1.spotify.com 
 clemmie.ash.spotify.com 
 click.api.cp.tune.com
@@ -223,7 +220,6 @@ comscoredatagems.com
 comscoredatamine.com
 comscoredirect.net
 comscorenetworks.net
-concerts-hometile-images.scdn.co 
 concerts.scdn.co 
 configuration.ma.tune.com
 content.bitsontherun.
@@ -424,10 +420,6 @@ idsync-ext.rlcdn.com
 ilisapesi.ash1.spotify.com 
 ilisapesi.ash.spotify.com 
 im.comscore.com
-image-upload.spotify.com 
-images.comscore.com
-images.spotify.com 
-imagesrv.adition.com
 img.spotify.com 
 insights.spotify.com 
 intercom.io
@@ -462,7 +454,6 @@ line-in.spotify.com
 links.iterable.com
 links.spotify.com
 links.spotify.com 
-live-tile-images.scdn.co 
 live.adyen.com
 live.spotify.com 
 log2.spotify.com
@@ -604,7 +595,6 @@ prod.spotify.map.fastly.net
 prod.spotify.map.fastly.net 
 prod.spotify.map.fastlylb.net
 prod.spotify.map.fastlylb.net 
-profile-images.scdn.co 
 pt.admob.com
 pubads.g.doubleclick.
 pubads.g.doubleclick.net
@@ -728,7 +718,6 @@ tathra.ash1.spotify.com
 tathra.ash.spotify.com 
 techattend.com
 terraform-modules-test.intercom.io
-thisis-images.scdn.co 
 tic1.vip.sc9.admob.com
 timecapsule.spotify.com 
 tpc.googlesyndication.
@@ -796,7 +785,6 @@ weblb-wg.gslb.spotify.
 weblb-wg.gslb.spotify.com
 weblb-wg.gslb.spotify.com 
 webplayersupport.spotify.com 
-welcome-images.scdn.co 
 wendy.admob.com
 wg.spotify.com 
 widget.intercom.io
