@@ -95,8 +95,7 @@ api.zwizzarmyknife.com
 apx.moatads.com
 ar.voicefive.com
 arantxa.ash1.spotify.com 
-arantxa.ash.spotify.com 
-artistheader.scdn.co 
+arantxa.ash.spotify.com
 aser.comscore.com
 ash1-apresolve-a1.ash1.spotify.com 
 ash1-apresolve-a1.ash.spotify.com 
@@ -188,9 +187,7 @@ c.admob.com
 cadace.ash1.spotify.com 
 cal.spotify.com 
 car-dev.scdn.co 
-car-prod.scdn.co 
-car-staging.scdn.co 
-cast.scdn.co 
+car-staging.scdn.co
 cdn.ravenjs.com
 cdr.comscore.com
 cer.comscore.com
@@ -431,9 +428,7 @@ log2.spotify.com
 log2.spotify.com 
 log.spotify.
 log.spotify.com
-log.spotify.com 
-login2.spotify.com 
-login-signup.scdn.co 
+log.spotify.com
 logtest.moatads.com
 lon6-accesspoint-a33.lon6.spotify.com
 lon.weblb-wg.dual-gslb.spotify.com 
@@ -454,7 +449,6 @@ media-match.
 media-match.com
 media-router-flurry7.prod.media.wg1.b.yahoo.com
 media.admob.com
-merch-img.scdn.co 
 messenger-webhook.spotify.com 
 messenger-webview.scdn.co 
 metadatafeedback.spotify.com 
@@ -684,9 +678,6 @@ track.leanlab.co
 tracking.admobsphere.com
 tribpubdfp745347008913.s.moatpixel.com
 tune.com
-tv-cast-prod.scdn.co 
-tv-static.scdn.co 
-tv.scdn.co 
 tx102.sc9.admob.com
 tx103.sc9.admob.com
 u.admob.com
@@ -699,9 +690,6 @@ ukr.admob.com
 ulink.adjust.com
 update.moatads.com
 updates.tune.com
-upgrade.scdn.co
-upgrade.scdn.co 
-upgrade.scdn.co 
 upsell.scdn.co 
 upv4.moatads.com
 v3.moatads.com
@@ -1254,7 +1242,6 @@ sp-bootstrap.global.ssl.fastly.net
 spritemaps.scdn.co
 sync.search.spotxchange.com
 u.scdn.co
-upgrade.scdn.com
 upsell.scdn.co
 video-fa.scdn.co
 weblb-wg.gslb.spotify.com
