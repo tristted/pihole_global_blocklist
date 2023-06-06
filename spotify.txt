@@ -322,7 +322,8 @@ gew1-accesspoint-b-wfcl.ap.spotify.com
 gew1-accesspoint-b-wjjm.ap.spotify.com 
 gew1-accesspoint-b-zg10.ap.spotify.com 
 gew1.ap.spotify.com
-gew1.ap.spotify.com 
+gew1.ap.spotify.com
+gew1-spclient.spotify.com
 gew-dealer-ssl.spotify.com 
 gew-dealer.spotify.com 
 gew-spclient.spotify.com 
