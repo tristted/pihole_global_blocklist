@@ -535,9 +535,6 @@ post.update.moatads.com
 postbuy.comscore.com
 press.spotify.com 
 proclarity.comscore.com
-prod.spotify-heads.map.fastlylb.net
-prod.spotify-heads.map.fastlylb.net 
-prod.spotify-heads.map.fastlylb.net 
 pt.admob.com
 pubads.g.doubleclick.
 pubads.g.doubleclick.net
@@ -606,7 +603,6 @@ sjc.weblb-wg.dual-gslb.spotify.com
 slackin.spotify.com 
 smtp2.admob.com
 smtp.admob.com
-sp-bootstrap.global.ssl.fastly.net 
 spclient-canary.wg.spotify.com 
 speech-recognition.spotify.com
 spotxchange.com
@@ -1198,5 +1194,4 @@ heads-fa.spotify.com
 heads-fab.spotify.com 
 heads-fac.spotify.com 
 mp3ad.scdn.co
-prod.spotify-heads.map.fastlylb.net
 audio-sp-sea.spotifycdn.net
