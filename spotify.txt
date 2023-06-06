@@ -80,14 +80,12 @@ andromache.ash.spotify.com
 anemone.ash1.spotify.com
 anemone.ash.spotify.com
 anycast.pixel.adsafeprotected.com
-ap.gslb.spotify.com 
-ap.spotify.com
+ap.gslb.spotify.com
 api-canary.wg.spotify.com
 api-iam.intercom.io
 api-partners-canary.wg.spotify.com
 api-ping.intercom.io
 api-tv-canary.wg.spotify.com
-api-tv.spotify.com
 api.admob.com
 api.admob.xiaomi.com
 api.comscore.com
@@ -120,9 +118,7 @@ ash-dealer.spotify.com
 ash-jumphost-a1.ash1.spotify.com 
 ash-jumphost-a1.ash.spotify.com 
 ash.weblb-wg.dual-gslb.spotify.com 
-ash.weblb-wg.gslb.spotify.com 
-assets.spotify.com
-assets.spotify.com 
+ash.weblb-wg.gslb.spotify.com
 atom.adjust.com
 audio2.spotify.com
 audio4-ak-spotify-com.akamaized.net
