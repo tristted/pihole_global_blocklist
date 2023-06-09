@@ -37,7 +37,6 @@ s0.2mdn.net
 securepubads.g.doubleclick.ne
 sto3.spotify.com
 tpc.googlesyndication.com
-upgrade.spotify.com
 v.jwpcdn.com
 video-ad-stats.googlesyndication.com
 weblb-wg.gslb.spotify.com
@@ -778,7 +777,6 @@ api.zwizzarmyknife.com
 0.0.0.0 www.googleadservices.
 0.0.0.0 www.googletagservices.
 0.0.0.0 www.omaze.com
-0.0.0.0 spclient.wg.spotify.com
 0.0.0.0 00.video-ak.cdn.spotify.com
 0.0.0.0 01.video-ak.cdn.spotify.com
 0.0.0.0 02.video-ak.cdn.spotify.com
