@@ -35,7 +35,6 @@ pubads.g.doubleclick.net
 redirector.gvt1.com
 s0.2mdn.net
 securepubads.g.doubleclick.ne
-spclient.wg.spotify.com
 sto3.spotify.com
 tpc.googlesyndication.com
 upgrade.spotify.com
